@@ -20,9 +20,9 @@ $(document).ready(function(){
       link: 'http://www.powur.com/with/42'
     },
     mystand: {
-      title: 'MyStand',
-      tag: 'CROWD-FUNDED CHARITY.',
-      detail: 'MyStand is a crowd-funding, media sharing website, that has you donating actions instead of money out of your pocket. Single page App built with Node.js on Sails and Angular 2.0. Features social media sharing and large scale crowd-funding.',
+      title: 'Magbodo',
+      tag: 'DON"T GET ZEROS.',
+      detail: "Magbodo (Don't get Zeros) is an adventure based CBT practice platform with an engaging game story that unravels as students’ progresses in game levels. We use gaming concepts to increase student practice time and grade. Hey! Still wondering what we do? We make learning fun, reward witty performance and academic excellence is the new cool",
     },
     never: {
       title: 'NeverSurrender',
@@ -118,7 +118,7 @@ $(document).ready(function(){
     });
     $.each($('#modal .slide'), function(index, value) {
       $(this).css({
-        background: "url('img/slides/" + id + '-' + index + ".jpg') center center/cover",
+        background: "url('./app/img/slides/" + id + '-' + index + ".jpg') center center/cover",
         backgroundSize: 'cover'
       });
               
