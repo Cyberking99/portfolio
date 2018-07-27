@@ -25,14 +25,14 @@ $(document).ready(function(){
       detail: "Magbodo (Don't get Zeros) is an adventure based CBT practice platform with an engaging game story that unravels as students’ progresses in game levels. We use gaming concepts to increase student practice time and grade. Hey! Still wondering what we do? We make learning fun, reward witty performance and academic excellence is the new cool",
     },
     never: {
-      title: 'NeverSurrender',
-      tag: 'ALS AWARENESS.',
-      detail: 'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.',
+      title: 'ALOC',
+      tag: 'Academic League of Champions.',
+      detail: 'ALOC is an adventure based CBT practice platform with an engaging game story that unravels as students’ progresses in game levels. We use gaming concepts to increase student practice time and grade.',
     },
     themall: {
-      title: 'The Mall',
-      tag: 'PEER GUIDED SHOPPING.',
-      detail: 'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.',
+     title: 'ALOC',
+      tag: 'Academic League of Champions.',
+      detail: 'ALOC is an adventure based CBT practice platform with an engaging game story that unravels as students’ progresses in game levels. We use gaming concepts to increase student practice time and grade.',
     }
   };
 
