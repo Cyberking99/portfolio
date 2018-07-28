@@ -3,31 +3,36 @@ $(document).ready(function(){
   // MODAL
   var modalText = {
     roambi: {
-      title: 'Roambi.com',
-      tag: 'BUSINESS ANALYTICS.',
-      detail: 'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
-      link: 'http://www.roambi.com'
+      title: 'Pixfam.com',
+      tag: 'EVENT PHOTO SHARING APP',
+      detail: "Pixfam is a photo sharing application that organizes photos taken by event's participants in one place.",
+      link: 'https://play.google.com/store/apps/details?id=com.pixfam'
     },
     walker: {
-      title: 'WalkerTracker',
-      tag: 'PERFORMANCE METRICS.',
-      detail: 'Walker Tracker offers goal management, fitness tracking, and team competitions to companies for internal use. A Ruby on Rails and Javascript companion site for the Walker Tracker App. Features visual metrics and gamified progression system.',
+      title: 'Past Questions Chat Bot',
+      tag: 'ALOC Lite.',
+      detail: 'We bring chat and game experience into learning for young school learners. Our solution keeps student engaged as they prepare for their various exams. With our app, learning is guaranteed to be fun.',
+      link: 'https://play.google.com/store/apps/details?id=ng.aloc.lite'
+
     },
     powur: {
-      title: 'Powur.com',
-      tag: 'MULTI-LEVEL MARKETING.',
-      detail: 'Powur is a multi-level marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
-      link: 'http://www.powur.com/with/42'
+      title: 'JAMB CBT Games',
+      tag: 'LEARN WITH FUN; PLAY FOR GLORY.',
+      detail: 'Virtual Academic Games CBT practice platform for all students seeking university admission in Nigeria. Other cool features include M-Chats, Talk Zone, Friend finder, Predict & win and various Academic Games mode like Solo, Sage, Brag Arena.',
+      link: 'https://play.google.com/store/apps/details?id=com.magbodo.aloc'
     },
     mystand: {
       title: 'Magbodo',
       tag: 'DON"T GET ZEROS.',
       detail: "Magbodo (Don't get Zeros) is an adventure based CBT practice platform with an engaging game story that unravels as students’ progresses in game levels. We use gaming concepts to increase student practice time and grade. Hey! Still wondering what we do? We make learning fun, reward witty performance and academic excellence is the new cool",
+       link: 'http://magbodo.com'
     },
     never: {
       title: 'ALOC',
       tag: 'Academic League of Champions.',
       detail: 'ALOC is an adventure based CBT practice platform with an engaging game story that unravels as students’ progresses in game levels. We use gaming concepts to increase student practice time and grade.',
+      link: 'http://aloc.ng'
+
     },
     themall: {
      title: 'ALOC',
