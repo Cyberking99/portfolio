@@ -5,7 +5,7 @@ $(document).ready(function(){
     roambi: {
       title: 'Pixfam.com',
       tag: 'EVENT PHOTO SHARING APP',
-      detail: "Pixfam is a photo sharing application that organizes photos taken by event's participants in one place.",
+      detail: "Pixfam is a photo sharing mobile application that organizes photos taken by event's participants in one place.",
       link: 'https://play.google.com/store/apps/details?id=com.pixfam'
     },
     walker: {
@@ -28,10 +28,10 @@ $(document).ready(function(){
        link: 'http://magbodo.com'
     },
     never: {
-      title: 'ALOC',
-      tag: 'Academic League of Champions.',
-      detail: 'ALOC is an adventure based CBT practice platform with an engaging game story that unravels as students’ progresses in game levels. We use gaming concepts to increase student practice time and grade.',
-      link: 'http://aloc.ng'
+      title: 'Git Hub',
+      tag: 'PROJECTS IN PUBLIC SPACE.',
+      detail: 'You can view my contribution in the public space of software developement.',
+      link: 'https://github.com/Seunope'
 
     },
     themall: {
