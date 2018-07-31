@@ -988,5 +988,9 @@ footer {
 /*# sourceMappingURL=style.css.map */
 
 /*My theme*/
-/* dark purpule: #a048c0
-/* light purpule: #7b508b;
+/* dark purpule: #a048c0*/
+/* light purpule: #7b508b;*/
+
+.img-circle {
+    border-radius: 50%;
+}
